@@ -7,13 +7,21 @@
 
 可以输入查询一个指定的电话号码，也能查看每个省份的手机服务区的数量，每个月更新后台数据。
 
+### 环境要求
+node >= 14
+
 ## Project start
+`git clone`
+
+`cd project`
+
 ```bash
 npm install
 npm run serve
 ```
 
 ### Compiles and minifies for production
-```
+
+```bash
 npm run build
 ```
